@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/SpringRole/DPI/compare/v1.0.0...v1.0.1) (2022-03-30)
+
+
+### Bug Fixes
+
+* updating workflow ([ab786f4](https://github.com/SpringRole/DPI/commit/ab786f4354b6208e8ffda26959ea0d0d7c77efb4))
+
 # 1.0.0 (2022-03-30)
 
 
