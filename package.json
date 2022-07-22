@@ -1,6 +1,6 @@
 {
   "name": "@springrole/dpi",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.2",
   "description": "Dependency injector class.",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpringRole/DPI.git"
+    "url": "git+https://dev.azure.com/SpringworksDev/Stand-alone%20Apps/_git/dpi.git"
   },
   "keywords": [
     "dependency",
@@ -17,16 +17,7 @@
   ],
   "author": "Avinash Ramesha",
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/SpringRole/DPI/issues"
-  },
-  "homepage": "https://github.com/SpringRole/DPI#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "devDependencies": {
-    "@commitlint/cli": "^16.2.3",
-    "@commitlint/config-conventional": "^16.2.1",
     "husky": "^7.0.4",
     "prettier": "^2.5.1"
   }
