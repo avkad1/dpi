@@ -1,6 +1,6 @@
 {
   "name": "@springrole/dpi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Dependency injector class.",
   "main": "lib/index.js",
   "scripts": {
