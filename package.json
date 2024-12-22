@@ -1,5 +1,5 @@
 {
-  "name": "dpi-js",
+  "name": "js-dep-injector",
   "version": "0.0.1",
   "description": "Dependency injector class.",
   "main": "lib/index.js",
