@@ -1,6 +1,6 @@
 {
-  "name": "@springrole/dpi",
-  "version": "0.0.4",
+  "name": "dpi",
+  "version": "0.0.1",
   "description": "Dependency injector class.",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://dev.azure.com/SpringworksDev/Stand-alone%20Apps/_git/dpi.git"
+    "url": "https://github.com/avkad1/dpi"
   },
   "keywords": [
     "dependency",
